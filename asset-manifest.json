@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Watchlist/static/css/main.cac7dd16.css",
+    "main.js": "/Watchlist/static/js/main.65844f63.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Watchlist/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Watchlist/index.html",
+    "main.cac7dd16.css.map": "/Watchlist/static/css/main.cac7dd16.css.map",
+    "main.65844f63.js.map": "/Watchlist/static/js/main.65844f63.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Watchlist/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cac7dd16.css",
+    "static/js/main.65844f63.js"
+  ]
+}
