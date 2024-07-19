@@ -1,0 +1,32 @@
+.result-card{
+    display: flex;
+    margin-bottom: 20px;
+}
+.result-card .poster-wrapper img , .empty{
+    width: 90px;
+    height: 145px;
+    background-color: #dbdada;
+    border-radius: 5px;
+    margin-left: 15px;
+    display: block;
+    color: transparent;
+}
+.result-card .info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 30px;
+    font-size: 1rem;
+}
+.result-card .info .title{
+    font-size: 1.5rem;
+}
+.result-card .info .release-date{
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--primary);
+    margin: 0;
+}
+.result-card .info .btn:last-child{
+    margin-left: 10px;
+}
